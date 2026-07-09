@@ -17,3 +17,4 @@ TOOLS *Miro - Project planning.
 *Excel - Table analysis.
 *SQL - Queries.
 *Canva - Presentation.
+*Data studio - Dashboard
